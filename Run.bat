@@ -1,0 +1,2 @@
+cd FileDataGenerator
+python DataCases/FakeData.py
