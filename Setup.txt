@@ -1,0 +1,5 @@
+1.   Install Python
+2.   Add Environment Variable of Python
+3.   Set Environment variable for PIP
+
+Video to Setup https://youtu.be/38HPxnrXMHo?list=PLIMhDiITmNrLD-gOfSN10LuIsq_fXbTjd
